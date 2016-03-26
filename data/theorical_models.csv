@@ -1,0 +1,38 @@
+id_modelo_classificacao,id_abordagem,nome_modelo,id_termo,termo,id_termo_pai,termo_pai
+2,MIST,Data Characterization Taxonomy,47,Association,46,Data Role
+2,MIST,Data Characterization Taxonomy,20,Atomic,19,Data Types
+2,MIST,Data Characterization Taxonomy,44,Attribute,41,Data Relations
+2,MIST,Data Characterization Taxonomy,48,Categorization,46,Data Role
+2,MIST,Data Characterization Taxonomy,49,Clustering,46,Data Role
+2,MIST,Data Characterization Taxonomy,52,Comparison,46,Data Role
+2,MIST,Data Characterization Taxonomy,21,Composite,19,Data Types
+2,MIST,Data Characterization Taxonomy,37,Composite Attributes,28,Data Attributes
+2,MIST,Data Characterization Taxonomy,26,Concept,24,Data Domain
+2,MIST,Data Characterization Taxonomy,43,Constituency,41,Data Relations
+2,MIST,Data Characterization Taxonomy,40,Continuity,37,Composite Attributes
+2,MIST,Data Characterization Taxonomy,54,Correlation,46,Data Role
+2,MIST,Data Characterization Taxonomy,51,Distinguishing,46,Data Role
+2,MIST,Data Characterization Taxonomy,55,Distribution,46,Data Role
+2,MIST,Data Characterization Taxonomy,25,Entity,24,Data Domain
+2,MIST,Data Characterization Taxonomy,45,Enumeration,41,Data Relations
+2,MIST,Data Characterization Taxonomy,29,Form,28,Data Attributes
+2,MIST,Data Characterization Taxonomy,42,Functional Dependency,41,Data Relations
+2,MIST,Data Characterization Taxonomy,50,Identification,46,Data Role
+2,MIST,Data Characterization Taxonomy,36,Importance,28,Data Attributes
+2,MIST,Data Characterization Taxonomy,57,Label,56,Data Sense
+2,MIST,Data Characterization Taxonomy,58,List,56,Data Sense
+2,MIST,Data Characterization Taxonomy,34,Location,28,Data Attributes
+2,MIST,Data Characterization Taxonomy,33,Material,28,Data Attributes
+2,MIST,Data Characterization Taxonomy,27,Measurement,24,Data Domain
+2,MIST,Data Characterization Taxonomy,32,None,29,Form
+2,MIST,Data Characterization Taxonomy,38,Ordering,37,Composite Attributes
+2,MIST,Data Characterization Taxonomy,59,Plot,56,Data Sense
+2,MIST,Data Characterization Taxonomy,61,Portrait,56,Data Sense
+2,MIST,Data Characterization Taxonomy,53,Ranking,46,Data Role
+2,MIST,Data Characterization Taxonomy,39,Scalability,37,Composite Attributes
+2,MIST,Data Characterization Taxonomy,22,Set,21,Composite
+2,MIST,Data Characterization Taxonomy,30,Shaped,29,Form
+2,MIST,Data Characterization Taxonomy,31,Shapeless,29,Form
+2,MIST,Data Characterization Taxonomy,23,Structure,21,Composite
+2,MIST,Data Characterization Taxonomy,60,Symbol,56,Data Sense
+2,MIST,Data Characterization Taxonomy,35,Transience,28,Data Attributes
